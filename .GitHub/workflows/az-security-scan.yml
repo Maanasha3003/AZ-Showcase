@@ -3,7 +3,7 @@
 
   name: AZ-Security-Scan
   
-  on:
+  on: 
     push:
       branches:
         - '*'
